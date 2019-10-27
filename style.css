@@ -1,0 +1,10 @@
+body {
+  background-image: url("assets/concrete_seamless\ copy.png");
+}
+.navbar-brand {
+  background-color: #4aaaa5;
+  color: white;
+}
+.main-content {
+  background-color: white;
+}
